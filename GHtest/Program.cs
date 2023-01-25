@@ -1,2 +1,2 @@
 ﻿string mystring = "Hello world";
-Console.WriteLine(mystring);
+Console.WriteLine(mystring); // I added a comment
